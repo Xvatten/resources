@@ -1,6 +1,21 @@
+<<<<<<< HEAD
 urxvt*foreground: #aaaaaa
 urxvt*background: #000000
 urxvt.scrollBar: false
 urxvt.perl-ext-common: default,matcher
 urxvt.url-launcher: /usr/bin/dwb
 urxvt.matcher.button: 1
+=======
+URxvt.scrollBar: false
+
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/dwb
+URxvt.matcher.button: 1
+
+URxvt.font: xft:terminus:size:8
+URxvt.boldFont: xft:terminus:size:8:weight=bold
+
+URxvt.background: black
+URxvt.foreground: gray
+
+>>>>>>> 0c7447f9e6347fa8df1c7d9fb4142671652fdeb7

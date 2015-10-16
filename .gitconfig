@@ -11,7 +11,7 @@
 #	ADD FILES AND COMMIT
 #
 #	git add [files]
-#	git commit "message"
+#	git commit -m "message"
 #
 #
 
