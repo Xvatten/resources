@@ -5,3 +5,19 @@
 	editor = nano
 [push]
 	defalut = simple
+
+
+
+#	ADD FILES AND COMMIT
+#
+#	git add [files]
+#	git commit "message"
+#
+#
+
+#	PUSH
+#
+#	git push resources master
+#		or
+#	git remote add resources <server>
+#	git push resources master
