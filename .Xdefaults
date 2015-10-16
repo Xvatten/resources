@@ -1,0 +1,6 @@
+urxvt*foreground: #aaaaaa
+urxvt*background: #000000
+urxvt.scrollBar: false
+urxvt.perl-ext-common: default,matcher
+urxvt.url-launcher: /usr/bin/dwb
+urxvt.matcher.button: 1

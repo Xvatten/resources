@@ -1,0 +1,23 @@
+[user]
+	email = daniel@llama.nu
+	name = Shotgun
+[core]
+	editor = nano
+[push]
+	defalut = simple
+
+
+
+#	ADD FILES AND COMMIT
+#
+#	git add [files]
+#	git commit "message"
+#
+#
+
+#	PUSH FILES
+#
+#	git push resources master
+#		or
+#	git remote add resources <server>
+#	git push resources master
