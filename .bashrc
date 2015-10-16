@@ -15,3 +15,4 @@ export LD_LIBRARY_PATH="/usr/lib"
 
 alias pirate-get="cd ~/.torrents && pirate-get"
 alias rtorrent="cd ~/ && rtorrent"
+alias alsi="alsi -a"
