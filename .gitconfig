@@ -1,0 +1,7 @@
+[user]
+	email = daniel@llama.nu
+	name = Shotgun
+[core]
+	editor = nano
+[push]
+	defalut = simple
