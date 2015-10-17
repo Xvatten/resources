@@ -12,8 +12,9 @@ gw2() {
 
 #export STEAM_RUNTIME=0
 export LD_LIBRARY_PATH="/usr/lib"
+export EDITOR="/usr/bin/nano"
+
 
 alias pirate-get="cd ~/.torrents && pirate-get"
 alias rtorrent="cd ~/Downloads && rtorrent"
 alias alsi="alsi -a"
-
