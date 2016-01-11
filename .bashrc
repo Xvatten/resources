@@ -6,13 +6,12 @@ orphans() {
   fi
 }
 
-gw2() {
-  WINEDEBUG=-all wine "/hdd/WineGames/Guild Wars 2/Gw2.exe" -dx9single
+update() {
+    sudo pacman -Syu
 }
 
-#export STEAM_RUNTIME=0
 export LD_LIBRARY_PATH="/usr/lib"
-export EDITOR="/usr/bin/nano"
+export EDITOR="/usr/bin/vim"
 
 
 alias pirate-get="cd ~/.torrents && pirate-get"
